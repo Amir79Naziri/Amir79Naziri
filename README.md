@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![](https://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![](https://img.shields.io/badge/-flask-cyan?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x)
-[![](https://img.shields.io/badge/-django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com)
+[![](https://img.shields.io/badge/-django-dark-green?style=for-the-badge&logo=django)](https://www.djangoproject.com)
 
 
 
