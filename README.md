@@ -9,12 +9,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amir79Naziri&theme=dracula" alt="Amirreza Naziri's Languages & Technologies"/><br/>
 </p>
 
-
-## Contact Me
-
-naziriamirreza@gmail.com
-
-
 ## Statistics
 
 <p align="center">
