@@ -12,9 +12,6 @@
 [![](https://img.shields.io/badge/-flask-cyan?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x)
 [![](https://img.shields.io/badge/-django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com)
 
-[![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)](https://angular.io/)
-[![](https://img.shields.io/badge/-react-green?style=for-the-badge&logo=react)](https://reactjs.org/)
-
 
 ## Contact Me
 
