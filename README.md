@@ -13,9 +13,7 @@
 [![](https://img.shields.io/badge/-django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com)
 
 
-## Contact Me
 
-[![](https://img.shields.io/badge/-1995parham@tuta.io-lightgray?style=for-the-badge&logo=tutanota)](mailto:1995parham@tuta.io)
 
 ## Statistics
 
