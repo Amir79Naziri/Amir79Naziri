@@ -17,7 +17,7 @@
   </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&theme=dracula" alt="GitHub stats"/><br/>
 </p>
 
 
