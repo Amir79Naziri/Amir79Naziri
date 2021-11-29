@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D046B6&size=27&center=true&width=450&lines=Hello%2C+I'm+Amirreza+Naziri;I+am+Computer+Engineering+Student+;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%23D046B6&size=30&center=true&width=450&lines=Hello 👋%2C;I'm+Amirreza+Naziri;Welcome+to+my+Github+profile">
+    </a>
+  </h1>
+
+
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula" alt="Amirreza Naziri"/><br/>
   </p>
