@@ -9,7 +9,8 @@
   
 ## Languages & Technologies
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 [![](https://img.shields.io/badge/-python3-gray?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![](https://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
