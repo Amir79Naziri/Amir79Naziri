@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I am+Amirreza+Naziri....;&center=true&size=30">
+    </a>
+  </h1>
+  
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula" alt="Amirreza Naziri"/><br/>
   </p>
