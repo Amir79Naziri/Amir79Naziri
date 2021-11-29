@@ -1,8 +1,4 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I am+Amirreza+Naziri....;&center=true&size=30">
-    </a>
-  </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232030F7&lines=Hello%2C+I'm+Amirreza+Naziri;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
   
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula" alt="Amirreza Naziri"/><br/>
