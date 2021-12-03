@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/karan36k">
-  <img width="540"  src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&theme=dracula"/>
+  <img width="520"  src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&theme=dracula"/>
   
   <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula"/>
   
