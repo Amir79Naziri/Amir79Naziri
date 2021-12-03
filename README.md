@@ -17,6 +17,6 @@
   <a href="https://github.com/karan36k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir79Naziri&layout=compact&langs_count=6&theme=dracula"/>
-  <img  width="900em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula"/>
+  <img  width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula"/>
   
   </a></div>
