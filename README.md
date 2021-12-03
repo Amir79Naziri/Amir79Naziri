@@ -13,11 +13,11 @@
 
 ## Statistics
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Amirreza Naziri"/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir79Naziri&theme=dracula" alt="Amirreza Naziri"/><br/>
   </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&theme=dracula" alt="GitHub stats"/><br/>
 </p>
 
 
