@@ -12,7 +12,7 @@
 
 
 ## Statistics  
-  
+  <br />
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&theme=dracula" alt="GitHub stats"/><br/>
 </p>
