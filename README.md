@@ -3,15 +3,9 @@
 
 
 
-  
-## Languages & Technologies
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="30" height="30"/></a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/></a>
-<a href="https://en.wikipedia.org/wiki/C_%28programming_language%29" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/><a/>
+ 
 
-
-
-## Statistics   
+### Statistics   
 
 
 <div align="center">
