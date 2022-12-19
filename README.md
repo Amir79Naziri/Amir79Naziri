@@ -7,10 +7,10 @@
 ---
 
 
-<div align="center" style="display: flex">
+<div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir79Naziri&theme=dracula&hide=html" alt="Amirreza Naziri's GitHub stats" /><br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats" /><br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir79Naziri&theme=dracula&hide=html" alt="Amirreza Naziri's GitHub stats" /><br />
 </div>
 
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amir79naziri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
