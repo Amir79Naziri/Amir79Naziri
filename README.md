@@ -7,7 +7,7 @@
 ---
 
 
-<div align="center">
+<div align="center" style="display: flex">
  
   <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir79Naziri&theme=dracula&hide=html" alt="Amirreza Naziri's GitHub stats" /><br />
