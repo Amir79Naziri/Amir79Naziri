@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=30&width=560&lines=Hello+%F0%9F%91%8B;I'm+Amirreza+Naziri;I'm+Computer+Engineering+Student+;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=30&width=560&lines=Hello+%F0%9F%91%8B;I'm+Amirreza+Naziri;I'm+a+Computer+Science+Student+;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
 
 
@@ -6,7 +6,7 @@
  
 ---
 
-
+<!--
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=Amir79Naziri&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats" /><br />
